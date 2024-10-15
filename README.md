@@ -32,5 +32,5 @@ mamalian4  0.004 0.003 0.004 0.004 0.003 0.002 0.005 0.000
 ##ar skiriasi kodonų ir dikodonų dažnis tarp žinduolių ir bakterijų virusų, kaip klasterizuojasi virusai. Gal kažkuris virusas labai išsiskyrė? Kokie kodonai/dikodonai labiausiai varijuoja?
 
 Virusai aiškiai skiriasi pagal tipą (žinduoliai vs. bakterijos). 
-Mamalian3 virusas turi didžiausią skirtumo reikšmę (0.049) pagal kodonų matricas, kas rodo, jog jis labiausiai skiriasi nuo kitų virusų. Mamalian3 ir Mamalian4 virusai išsiskyrė labiausiai iš žinduolių, ypač pagal kodonų dažnius.
+Mamalian3 virusas turi didžiausią skirtumo reikšmę (0.049), kas rodo, jog jis labiausiai skiriasi nuo kitų virusų. Mamalian3 ir Mamalian4 virusai išsiskyrė labiausiai iš žinduolių, ypač pagal kodonų dažnius.
 Kodonų dažniai labiausiai skiriasi tarp virusų grupių, o dikodonų vienodesni, bet vis tiek naudingi.
