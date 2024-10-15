@@ -1,13 +1,13 @@
 # codons_and_dicodons
 Universtity lab works
 
-##aprašykite, kaip skaičiavote atstumo funkciją;
+## aprašykite, kaip skaičiavote atstumo funkciją;
 
 1. Paimi dviejų virusų kodonų arba dikodonų dažnių vektorius.
 2. Apskaičiuoji skirtumus tarp tų dviejų vektorių elementų ir pakeli juos kvadratu.
 3. Gautas reikšmes susumavus, gaunam atstumą tarp dviejų virusų.
 
-##kokie medžiai gavosi su kodonais ir dikodonais
+## kokie medžiai gavosi su kodonais ir dikodonais
 
 kodonų atstumų matrica:
 bacterial1 0.000 0.019 0.016 0.010 0.023 0.028 0.032 0.031
@@ -29,7 +29,7 @@ mamalian2  0.004 0.002 0.004 0.003 0.003 0.000 0.004 0.002
 mamalian3  0.004 0.003 0.004 0.003 0.003 0.004 0.000 0.005
 mamalian4  0.004 0.003 0.004 0.004 0.003 0.002 0.005 0.000
 
-##ar skiriasi kodonų ir dikodonų dažnis tarp žinduolių ir bakterijų virusų, kaip klasterizuojasi virusai. Gal kažkuris virusas labai išsiskyrė? Kokie kodonai/dikodonai labiausiai varijuoja?
+## ar skiriasi kodonų ir dikodonų dažnis tarp žinduolių ir bakterijų virusų, kaip klasterizuojasi virusai. Gal kažkuris virusas labai išsiskyrė? Kokie kodonai/dikodonai labiausiai varijuoja?
 
 Virusai aiškiai skiriasi pagal tipą (žinduoliai vs. bakterijos). 
 Mamalian3 virusas turi didžiausią skirtumo reikšmę (0.049), kas rodo, jog jis labiausiai skiriasi nuo kitų virusų. Mamalian3 ir Mamalian4 virusai išsiskyrė labiausiai iš žinduolių, ypač pagal kodonų dažnius.
